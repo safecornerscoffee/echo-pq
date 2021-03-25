@@ -1,10 +1,6 @@
 # PQL
 
-
-
 ## Echo
-
-
 
 ### [database/sql](https://golang.org/pkg/database/sql/#Result)
 
@@ -17,8 +13,6 @@
 - sql.Row.Scan()
 - sql.DB.Query()
 - [sql.Rows](https://golang.org/pkg/database/sql/#Rows)
-
-
 
 ## [Postgres](https://hub.docker.com/_/postgres)
 
@@ -34,8 +28,6 @@ POSTGRES_DB
 
 `/docker-entrypoint-initdb.d`
 
-
-
 ## Refs
 
 - [database/sql documentation](https://golang.org/pkg/database/sql/)
@@ -44,4 +36,4 @@ POSTGRES_DB
 - [SQLX - Built in Interfaces](http://jmoiron.net/blog/built-in-interfaces/)
 - [Go database/sql tutorial](http://go-database-sql.org/index.html)
 - [Using PostgreSQL with Go](https://www.calhoun.io/using-postgresql-with-go)
-
+- [Creating a Go(lang) API with Echo Framework and PostgreSQL](https://www.restapiexample.com/golang-tutorial/creating-golang-api-echo-framework-postgresql)
